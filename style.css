@@ -1,0 +1,50 @@
+*{
+margin:0px;
+padding:0px;
+}
+
+body {
+color: rgb(0, 0, 0); 
+background-color: black;
+}
+
+#page{
+width:1000px;
+background-color: rgb(253, 253, 249);
+height:880px;
+border-style:none;
+
+}
+#bandeau{
+background-image:url('images/bandeaufinal.png');
+height:250px;
+
+}
+#menu{
+height:50px;
+background-color:blue;
+text-align:center;
+}
+a{
+color:white;
+}
+#corps{
+height:580px;
+}
+h1{
+text-align:center;
+color:orange;
+font-size:50px;
+font-style:italic;
+}
+a{
+	color:white;
+}
+
+
+
+
+
+
+
+
